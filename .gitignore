@@ -1,0 +1,21 @@
+# ignore any .pyc files because they are annoying
+*.pyc
+
+## ignore hidden os files: (not sure what to put in for windows users )
+*.DS_Store
+.DS_Store
+
+## ignore latex auxiliary files
+*.bbl
+*.blg
+*.dvi
+*.gz
+*.aux
+*.log.txt
+*.bak
+
+# ignore catboos_info files
+*catboost_info*
+
+# vscode settings
+*.vscode*

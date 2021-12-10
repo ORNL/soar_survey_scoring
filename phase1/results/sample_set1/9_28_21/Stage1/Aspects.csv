@@ -1,0 +1,7 @@
+,CapabilityLabel,QXAnswer
+0,Ability to prepopulate alert and logging data into tickets,Q9Answer
+1,Ability for analysts in different geographic locations to work simultaneously on an investigation,Q8Answer
+2,Ability to rank / score alerts so that analysts can easily prioritize alerts from most to least significant,Q4Answer
+3,Ability to automate common tasks such as responding to phishing attacks and failed user logins,Q7Answer
+4,"Playbooks or workflows that are easy to create, configure, share, and combine",Q6Answer
+5,Ability to ingest custom logging / alert formats,Q5Answer

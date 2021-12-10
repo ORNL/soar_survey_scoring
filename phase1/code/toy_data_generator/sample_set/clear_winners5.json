@@ -1,0 +1,1911 @@
+{
+  "users": [
+    {
+      "niceness": 1.1062764093064141,
+      "name": "Dawn Ayers",
+      "tool_assignments": [
+        0,
+        6,
+        3,
+        5,
+        8,
+        4,
+        9,
+        2
+      ],
+      "jitter_size": 0.9592018874721797,
+      "tool_scores": {},
+      "property_weights": {
+        "auto_task": 1.191113001514124,
+        "playbooks": 0.3464249688039298,
+        "rank_alert": 1.0812207240326794,
+        "colab": 1.26582078049044,
+        "ticketing": 1.4505775738465472,
+        "ingest": 1.2505889498043712
+      },
+      "occupation": "systems administrator",
+      "experience": 22,
+      "familiarity": 3
+    },
+    {
+      "niceness": 1.125789125614337,
+      "name": "Nancy Potts",
+      "tool_assignments": [
+        0,
+        6,
+        3,
+        7,
+        5,
+        4,
+        1,
+        9
+      ],
+      "jitter_size": 1.3188143405338888,
+      "tool_scores": {},
+      "property_weights": {
+        "auto_task": 1.010009255707189,
+        "playbooks": 1.250433418269323,
+        "rank_alert": 0.8784620995613229,
+        "colab": 0.6867153958522229,
+        "ticketing": 0.83339614235874,
+        "ingest": 0.7217565739015039
+      },
+      "occupation": "security operator",
+      "experience": 18,
+      "familiarity": 1
+    },
+    {
+      "niceness": 0.4563252310282411,
+      "name": "Ronald Lynch",
+      "tool_assignments": [
+        0,
+        6,
+        3,
+        7,
+        5,
+        8,
+        1,
+        2
+      ],
+      "jitter_size": 1.1269294399815786,
+      "tool_scores": {},
+      "property_weights": {
+        "auto_task": 0.9625963323298792,
+        "playbooks": 1.2933460966399062,
+        "rank_alert": 0.7198057196226643,
+        "colab": 0.7285452329212201,
+        "ticketing": 0.6559970646276263,
+        "ingest": 1.0584729696819366
+      },
+      "occupation": "systems administrator",
+      "experience": 2,
+      "familiarity": 3
+    },
+    {
+      "niceness": 0.9048305680165327,
+      "name": "Monica Burch",
+      "tool_assignments": [
+        0,
+        3,
+        7,
+        8,
+        4,
+        1,
+        9,
+        2
+      ],
+      "jitter_size": 1.3912542722867196,
+      "tool_scores": {},
+      "property_weights": {
+        "auto_task": 0.7728050161124055,
+        "playbooks": 1.2421750409789942,
+        "rank_alert": 1.278366370866684,
+        "colab": 0.7824430943671382,
+        "ticketing": 1.073336747787271,
+        "ingest": 0.6874952875312339
+      },
+      "occupation": "security operator",
+      "experience": 2,
+      "familiarity": 1
+    },
+    {
+      "niceness": 2.0191080964686527,
+      "name": "David Bradley",
+      "tool_assignments": [
+        6,
+        7,
+        5,
+        8,
+        4,
+        1,
+        9,
+        2
+      ],
+      "jitter_size": 1.1885439516773195,
+      "tool_scores": {},
+      "property_weights": {
+        "auto_task": 0.7968122061691671,
+        "playbooks": 1.504183466208654,
+        "rank_alert": 1.3902393955665477,
+        "colab": 1.364010685490664,
+        "ticketing": 0.8155739969381693,
+        "ingest": 1.7693727674683633
+      },
+      "occupation": "network operator",
+      "experience": 7,
+      "familiarity": 3
+    },
+    {
+      "niceness": 0.8973657848287512,
+      "name": "Angela Watkins",
+      "tool_assignments": [
+        0,
+        6,
+        3,
+        7,
+        5,
+        8,
+        4,
+        1
+      ],
+      "jitter_size": 0.7995031201847832,
+      "tool_scores": {},
+      "property_weights": {
+        "auto_task": 0.7527753219790808,
+        "playbooks": 0.7649701613668731,
+        "rank_alert": 1.2756833399122416,
+        "colab": 0.8449048489219333,
+        "ticketing": 0.9913117239804414,
+        "ingest": 0.6730866597082954
+      },
+      "occupation": "other",
+      "experience": 24,
+      "familiarity": 3
+    },
+    {
+      "niceness": 0.8862380553474983,
+      "name": "Joseph Anderson",
+      "tool_assignments": [
+        6,
+        3,
+        7,
+        8,
+        4,
+        1,
+        9,
+        2
+      ],
+      "jitter_size": 0.9415424923531521,
+      "tool_scores": {},
+      "property_weights": {
+        "auto_task": 0.8255183171329332,
+        "playbooks": 1.0341536655767747,
+        "rank_alert": 1.4635377801785356,
+        "colab": 1.1185589147456312,
+        "ticketing": 0.9206109370698851,
+        "ingest": 0.870980739734982
+      },
+      "occupation": "network operator",
+      "experience": 3,
+      "familiarity": 1
+    },
+    {
+      "niceness": 0.9291693046827361,
+      "name": "Patrick King",
+      "tool_assignments": [
+        0,
+        6,
+        7,
+        5,
+        4,
+        1,
+        9,
+        2
+      ],
+      "jitter_size": 0.3351334037239754,
+      "tool_scores": {},
+      "property_weights": {
+        "auto_task": 0.8303816195141247,
+        "playbooks": 0.11874940134174439,
+        "rank_alert": 1.2282674476574829,
+        "colab": 0.5323735506827065,
+        "ticketing": 0.8267079216020015,
+        "ingest": 1.4014738932594502
+      },
+      "occupation": "security operator",
+      "experience": 21,
+      "familiarity": 1
+    },
+    {
+      "niceness": 0.9355291074177302,
+      "name": "Michael Gross",
+      "tool_assignments": [
+        0,
+        3,
+        7,
+        5,
+        8,
+        1,
+        9,
+        2
+      ],
+      "jitter_size": 0.6242669701775032,
+      "tool_scores": {},
+      "property_weights": {
+        "auto_task": 0.7107045263299678,
+        "playbooks": 1.1195119138691814,
+        "rank_alert": 1.1908341060716607,
+        "colab": 0.8664253641018077,
+        "ticketing": 1.156857926305909,
+        "ingest": 0.6842318046534843
+      },
+      "occupation": "systems administrator",
+      "experience": 2,
+      "familiarity": 1
+    },
+    {
+      "niceness": 0.8881185060710622,
+      "name": "Derek Crawford",
+      "tool_assignments": [
+        0,
+        6,
+        3,
+        5,
+        8,
+        4,
+        9,
+        2
+      ],
+      "jitter_size": 1.0015708751941497,
+      "tool_scores": {},
+      "property_weights": {
+        "auto_task": 0.6642147679256709,
+        "playbooks": 0.7998535547175564,
+        "rank_alert": 0.819782174072624,
+        "colab": 1.3923448608836395,
+        "ticketing": 0.591309127892879,
+        "ingest": 0.8006276532054417
+      },
+      "occupation": "systems administrator",
+      "experience": 14,
+      "familiarity": 1
+    },
+    {
+      "niceness": 0.8258153626372896,
+      "name": "Veronica Delgado",
+      "tool_assignments": [
+        6,
+        3,
+        7,
+        5,
+        8,
+        4,
+        1,
+        2
+      ],
+      "jitter_size": 0.3509593855021206,
+      "tool_scores": {},
+      "property_weights": {
+        "auto_task": 0.754188934647148,
+        "playbooks": 1.1379933971446148,
+        "rank_alert": 1.1571254826782533,
+        "colab": 1.3095150806711593,
+        "ticketing": 1.130142219020422,
+        "ingest": 1.3121392716018434
+      },
+      "occupation": "systems administrator",
+      "experience": 24,
+      "familiarity": 2
+    },
+    {
+      "niceness": 0.9105264341534385,
+      "name": "Ashley Gomez",
+      "tool_assignments": [
+        0,
+        7,
+        5,
+        8,
+        4,
+        1,
+        9,
+        2
+      ],
+      "jitter_size": 0.9475909273734135,
+      "tool_scores": {},
+      "property_weights": {
+        "auto_task": 1.0382357083689775,
+        "playbooks": 0.7920931103713773,
+        "rank_alert": 1.0816702041192747,
+        "colab": 0.9740851654581935,
+        "ticketing": 1.3790126447978146,
+        "ingest": 1.3273063812026729
+      },
+      "occupation": "security operator",
+      "experience": 24,
+      "familiarity": 1
+    },
+    {
+      "niceness": 0.8030489665626095,
+      "name": "Eric Velazquez",
+      "tool_assignments": [
+        0,
+        6,
+        3,
+        7,
+        8,
+        1,
+        9,
+        2
+      ],
+      "jitter_size": 0.5257385753907027,
+      "tool_scores": {},
+      "property_weights": {
+        "auto_task": 0.9446739232913365,
+        "playbooks": 1.5964435693324357,
+        "rank_alert": 0.7997412857500295,
+        "colab": 0.7716891595471993,
+        "ticketing": 0.8596049071821118,
+        "ingest": 0.8751054336321559
+      },
+      "occupation": "other",
+      "experience": 23,
+      "familiarity": 2
+    },
+    {
+      "niceness": 0.9747062809862129,
+      "name": "John Goodwin",
+      "tool_assignments": [
+        0,
+        6,
+        3,
+        7,
+        5,
+        4,
+        9,
+        2
+      ],
+      "jitter_size": 1.0911021269855605,
+      "tool_scores": {},
+      "property_weights": {
+        "auto_task": 1.3360344184625839,
+        "playbooks": 0.9398296349308273,
+        "rank_alert": 1.0209119271686475,
+        "colab": 0.7697331867516116,
+        "ticketing": 1.549579757978,
+        "ingest": 0.6796871767197223
+      },
+      "occupation": "systems administrator",
+      "experience": 18,
+      "familiarity": 3
+    },
+    {
+      "niceness": 1.3274534524928976,
+      "name": "Penny Mendoza",
+      "tool_assignments": [
+        0,
+        6,
+        3,
+        5,
+        8,
+        4,
+        1,
+        9
+      ],
+      "jitter_size": 1.4034549342390934,
+      "tool_scores": {},
+      "property_weights": {
+        "auto_task": 0.4731896713637582,
+        "playbooks": 1.1133094617237478,
+        "rank_alert": 1.1157343305289573,
+        "colab": 1.067318878957383,
+        "ticketing": 1.3031843062910615,
+        "ingest": 0.9375226134881682
+      },
+      "occupation": "network operator",
+      "experience": 10,
+      "familiarity": 3
+    },
+    {
+      "niceness": 1.1658900429845238,
+      "name": "Tyler Moore",
+      "tool_assignments": [
+        0,
+        3,
+        5,
+        8,
+        4,
+        1,
+        9,
+        2
+      ],
+      "jitter_size": 0.8752115580160105,
+      "tool_scores": {},
+      "property_weights": {
+        "auto_task": 1.1679805353887087,
+        "playbooks": 1.079306902504718,
+        "rank_alert": 0.6006774276817617,
+        "colab": 1.3193658193815692,
+        "ticketing": 0.7455338364287414,
+        "ingest": 1.4474896617761126
+      },
+      "occupation": "network operator",
+      "experience": 5,
+      "familiarity": 2
+    },
+    {
+      "niceness": 1.1047421606765284,
+      "name": "Paula Garcia",
+      "tool_assignments": [
+        6,
+        3,
+        7,
+        5,
+        8,
+        4,
+        9,
+        2
+      ],
+      "jitter_size": 0.35044174969186676,
+      "tool_scores": {},
+      "property_weights": {
+        "auto_task": 0.6440530191668137,
+        "playbooks": 1.151392059773633,
+        "rank_alert": 1.3747460445991855,
+        "colab": 0.9614971075901809,
+        "ticketing": 0.6592686131263519,
+        "ingest": 0.7719301182261016
+      },
+      "occupation": "systems administrator",
+      "experience": 13,
+      "familiarity": 2
+    },
+    {
+      "niceness": 1.2615351371059567,
+      "name": "Alan Jones",
+      "tool_assignments": [
+        0,
+        6,
+        7,
+        5,
+        8,
+        4,
+        1,
+        2
+      ],
+      "jitter_size": 0.5862774667723064,
+      "tool_scores": {},
+      "property_weights": {
+        "auto_task": 0.8295679599473409,
+        "playbooks": 0.8857653411636365,
+        "rank_alert": 0.8843008552984569,
+        "colab": 0.8569938302796511,
+        "ticketing": 1.0302425355977913,
+        "ingest": 1.0626875941729184
+      },
+      "occupation": "other",
+      "experience": 14,
+      "familiarity": 2
+    },
+    {
+      "niceness": 0.7369982126646568,
+      "name": "Kelly Keith",
+      "tool_assignments": [
+        0,
+        6,
+        3,
+        7,
+        5,
+        1,
+        9,
+        2
+      ],
+      "jitter_size": 0.5222733440819025,
+      "tool_scores": {},
+      "property_weights": {
+        "auto_task": 1.7343503337670507,
+        "playbooks": 0.9480520294092349,
+        "rank_alert": 1.0892476929655142,
+        "colab": 1.3717139221738244,
+        "ticketing": 0.9297135247737971,
+        "ingest": 1.4006481352731441
+      },
+      "occupation": "network operator",
+      "experience": 16,
+      "familiarity": 3
+    },
+    {
+      "niceness": 1.143229422876921,
+      "name": "Stephen Alexander",
+      "tool_assignments": [
+        0,
+        6,
+        3,
+        7,
+        8,
+        4,
+        1,
+        9
+      ],
+      "jitter_size": 0.7760421980758618,
+      "tool_scores": {},
+      "property_weights": {
+        "auto_task": 1.1319725147245034,
+        "playbooks": 0.8446668259915666,
+        "rank_alert": 0.49227615255305546,
+        "colab": 1.315241788426179,
+        "ticketing": 1.796008848027462,
+        "ingest": 0.8112547402530245
+      },
+      "occupation": "other",
+      "experience": 25,
+      "familiarity": 1
+    },
+    {
+      "niceness": 0.7655837036829671,
+      "name": "Kimberly Steele",
+      "tool_assignments": [
+        0,
+        6,
+        7,
+        8,
+        4,
+        1,
+        9,
+        2
+      ],
+      "jitter_size": 1.187903912284754,
+      "tool_scores": {},
+      "property_weights": {
+        "auto_task": 1.4532140295419849,
+        "playbooks": 1.0924594887797656,
+        "rank_alert": 1.2701028100969394,
+        "colab": 1.2043686209141407,
+        "ticketing": 0.55005435728917,
+        "ingest": 1.020871012303248
+      },
+      "occupation": "systems administrator",
+      "experience": 23,
+      "familiarity": 1
+    },
+    {
+      "niceness": 1.2754745531437504,
+      "name": "Debra Wilcox",
+      "tool_assignments": [
+        0,
+        6,
+        3,
+        7,
+        5,
+        8,
+        1,
+        9
+      ],
+      "jitter_size": 0.8628532844584931,
+      "tool_scores": {},
+      "property_weights": {
+        "auto_task": 0.973533466955144,
+        "playbooks": 0.9364391793609138,
+        "rank_alert": 1.2227534746985673,
+        "colab": 1.372602633147845,
+        "ticketing": 1.14494345587892,
+        "ingest": 0.9615209336271361
+      },
+      "occupation": "security operator",
+      "experience": 18,
+      "familiarity": 2
+    },
+    {
+      "niceness": 0.9241782438992039,
+      "name": "Daniel Holland",
+      "tool_assignments": [
+        3,
+        7,
+        5,
+        8,
+        4,
+        1,
+        9,
+        2
+      ],
+      "jitter_size": 1.1021744230400012,
+      "tool_scores": {},
+      "property_weights": {
+        "auto_task": 0.6674707005225222,
+        "playbooks": 1.2500314564580446,
+        "rank_alert": 1.061496106371326,
+        "colab": 0.5523914479984597,
+        "ticketing": 0.9708183272714359,
+        "ingest": 1.251897390244405
+      },
+      "occupation": "other",
+      "experience": 21,
+      "familiarity": 1
+    },
+    {
+      "niceness": 1.2589223743108957,
+      "name": "Meagan Kim",
+      "tool_assignments": [
+        0,
+        6,
+        3,
+        7,
+        5,
+        8,
+        4,
+        2
+      ],
+      "jitter_size": 0.6137654677266923,
+      "tool_scores": {},
+      "property_weights": {
+        "auto_task": 1.5760236190930361,
+        "playbooks": 0.5124858048605774,
+        "rank_alert": 1.1234668817837226,
+        "colab": 1.2000738809697409,
+        "ticketing": 1.3817614700715075,
+        "ingest": 0.8879117137707678
+      },
+      "occupation": "systems administrator",
+      "experience": 4,
+      "familiarity": 2
+    },
+    {
+      "niceness": 0.927226501191434,
+      "name": "Lisa Ross",
+      "tool_assignments": [
+        0,
+        6,
+        3,
+        5,
+        4,
+        1,
+        9,
+        2
+      ],
+      "jitter_size": 1.1324554120587398,
+      "tool_scores": {},
+      "property_weights": {
+        "auto_task": 1.1294187065987678,
+        "playbooks": 0.6779666148368577,
+        "rank_alert": 1.4097873284792115,
+        "colab": 1.4290874824040705,
+        "ticketing": 0.577623530524271,
+        "ingest": 0.762299080329539
+      },
+      "occupation": "security operator",
+      "experience": 10,
+      "familiarity": 2
+    },
+    {
+      "niceness": 0.2881614504353115,
+      "name": "Emily Jones",
+      "tool_assignments": [
+        0,
+        6,
+        3,
+        7,
+        5,
+        4,
+        1,
+        2
+      ],
+      "jitter_size": 0.807333774413908,
+      "tool_scores": {},
+      "property_weights": {
+        "auto_task": 1.066441456398796,
+        "playbooks": 1.6108311570459,
+        "rank_alert": 1.0404189081077986,
+        "colab": 0.7660026171908269,
+        "ticketing": 1.1258559799684593,
+        "ingest": 0.8308737176007339
+      },
+      "occupation": "other",
+      "experience": 18,
+      "familiarity": 3
+    },
+    {
+      "niceness": 1.3435895335888868,
+      "name": "Sophia Johnson",
+      "tool_assignments": [
+        0,
+        3,
+        7,
+        5,
+        8,
+        4,
+        1,
+        9
+      ],
+      "jitter_size": 0.7049421265464856,
+      "tool_scores": {},
+      "property_weights": {
+        "auto_task": 0.678947423277785,
+        "playbooks": 1.103809757890645,
+        "rank_alert": 0.7901922753544435,
+        "colab": 1.1811366758773345,
+        "ticketing": 0.9256791912909723,
+        "ingest": 0.9093320270798253
+      },
+      "occupation": "network operator",
+      "experience": 15,
+      "familiarity": 1
+    },
+    {
+      "niceness": 0.9123590660836096,
+      "name": "Michael Alexander",
+      "tool_assignments": [
+        6,
+        3,
+        7,
+        5,
+        8,
+        1,
+        9,
+        2
+      ],
+      "jitter_size": 0.30460900437418537,
+      "tool_scores": {},
+      "property_weights": {
+        "auto_task": 1.339081320790473,
+        "playbooks": 0.6256272825814253,
+        "rank_alert": 0.5740307406201823,
+        "colab": 1.5292449327443016,
+        "ticketing": 1.6442302243847728,
+        "ingest": 0.8452052241249384
+      },
+      "occupation": "other",
+      "experience": 2,
+      "familiarity": 2
+    },
+    {
+      "niceness": 1.4464417246137766,
+      "name": "Ryan Diaz",
+      "tool_assignments": [
+        0,
+        6,
+        3,
+        8,
+        4,
+        1,
+        9,
+        2
+      ],
+      "jitter_size": 0.3755788537433635,
+      "tool_scores": {},
+      "property_weights": {
+        "auto_task": 1.283155164180906,
+        "playbooks": 0.685698008592168,
+        "rank_alert": 1.2541651878512832,
+        "colab": 1.3183607461035538,
+        "ticketing": 0.9824644942724576,
+        "ingest": 0.9401465069383854
+      },
+      "occupation": "network operator",
+      "experience": 20,
+      "familiarity": 3
+    },
+    {
+      "niceness": 0.9247081659945872,
+      "name": "Nathaniel Miles",
+      "tool_assignments": [
+        0,
+        6,
+        7,
+        5,
+        8,
+        4,
+        9,
+        2
+      ],
+      "jitter_size": 0.7730137339233871,
+      "tool_scores": {},
+      "property_weights": {
+        "auto_task": 1.2789002355385957,
+        "playbooks": 1.1849764747122413,
+        "rank_alert": 1.1700492170893375,
+        "colab": 0.5112616858171355,
+        "ticketing": 0.5293976842477195,
+        "ingest": 1.032128722527089
+      },
+      "occupation": "security operator",
+      "experience": 9,
+      "familiarity": 2
+    },
+    {
+      "niceness": 1.1406236806289514,
+      "name": "Vanessa Haynes",
+      "tool_assignments": [
+        0,
+        6,
+        3,
+        7,
+        5,
+        8,
+        4,
+        9
+      ],
+      "jitter_size": 0.8874862065503848,
+      "tool_scores": {},
+      "property_weights": {
+        "auto_task": 0.5204731431397254,
+        "playbooks": 1.014528932316868,
+        "rank_alert": 0.4779564366128355,
+        "colab": 0.8785236859001102,
+        "ticketing": 1.333592446901976,
+        "ingest": 1.0355208645633054
+      },
+      "occupation": "systems administrator",
+      "experience": 16,
+      "familiarity": 2
+    },
+    {
+      "niceness": 1.0537275474290364,
+      "name": "Mr. David Jackson DDS",
+      "tool_assignments": [
+        0,
+        6,
+        7,
+        5,
+        8,
+        1,
+        9,
+        2
+      ],
+      "jitter_size": 1.2718482243584937,
+      "tool_scores": {},
+      "property_weights": {
+        "auto_task": 0.771959478966364,
+        "playbooks": 0.9764038809172408,
+        "rank_alert": 0.5724529595091321,
+        "colab": 0.8366284802475916,
+        "ticketing": 0.9186366143214775,
+        "ingest": 0.4776187469118559
+      },
+      "occupation": "security operator",
+      "experience": 18,
+      "familiarity": 1
+    },
+    {
+      "niceness": 0.9611712514001732,
+      "name": "Michael Perez",
+      "tool_assignments": [
+        0,
+        6,
+        3,
+        5,
+        8,
+        4,
+        1,
+        2
+      ],
+      "jitter_size": 1.2687631333821237,
+      "tool_scores": {},
+      "property_weights": {
+        "auto_task": 0.6089405648970707,
+        "playbooks": 1.0176388709240103,
+        "rank_alert": 1.3828530742160512,
+        "colab": 1.299033832247646,
+        "ticketing": 1.3310181869843685,
+        "ingest": 1.1504481074440385
+      },
+      "occupation": "other",
+      "experience": 16,
+      "familiarity": 2
+    },
+    {
+      "niceness": 1.1942435888862928,
+      "name": "Miguel Adams",
+      "tool_assignments": [
+        0,
+        3,
+        7,
+        5,
+        4,
+        1,
+        9,
+        2
+      ],
+      "jitter_size": 1.046516818649598,
+      "tool_scores": {},
+      "property_weights": {
+        "auto_task": 0.8512425731086789,
+        "playbooks": 1.0136550097909975,
+        "rank_alert": 1.1219921616934223,
+        "colab": 1.0303466875933855,
+        "ticketing": 0.6463835790798593,
+        "ingest": 1.2008212837018681
+      },
+      "occupation": "network operator",
+      "experience": 18,
+      "familiarity": 1
+    },
+    {
+      "niceness": 0.7740874183804172,
+      "name": "Teresa Roberts",
+      "tool_assignments": [
+        6,
+        3,
+        7,
+        8,
+        4,
+        1,
+        9,
+        2
+      ],
+      "jitter_size": 0.905788803864434,
+      "tool_scores": {},
+      "property_weights": {
+        "auto_task": 1.3488767276383768,
+        "playbooks": 0.6666785594014668,
+        "rank_alert": 1.5660614262894947,
+        "colab": 0.6206237498566404,
+        "ticketing": 0.916510526452113,
+        "ingest": 0.8881657283262161
+      },
+      "occupation": "network operator",
+      "experience": 14,
+      "familiarity": 1
+    },
+    {
+      "niceness": 1.2176062787356086,
+      "name": "Tiffany Smith",
+      "tool_assignments": [
+        0,
+        6,
+        5,
+        8,
+        4,
+        1,
+        9,
+        2
+      ],
+      "jitter_size": 0.4402851730415555,
+      "tool_scores": {},
+      "property_weights": {
+        "auto_task": 1.0012876843101073,
+        "playbooks": 0.6360804026147762,
+        "rank_alert": 1.3236122571164408,
+        "colab": 0.4290876443663021,
+        "ticketing": 0.6970882229793693,
+        "ingest": 0.49724343007200955
+      },
+      "occupation": "systems administrator",
+      "experience": 5,
+      "familiarity": 2
+    },
+    {
+      "niceness": 0.9595519988564842,
+      "name": "Michael Robbins",
+      "tool_assignments": [
+        0,
+        6,
+        3,
+        7,
+        8,
+        4,
+        1,
+        2
+      ],
+      "jitter_size": 0.7255336205261053,
+      "tool_scores": {},
+      "property_weights": {
+        "auto_task": 0.9561523537527599,
+        "playbooks": 1.0453601519016047,
+        "rank_alert": 0.9018468232743806,
+        "colab": 0.8642414035043293,
+        "ticketing": 0.9848364683025852,
+        "ingest": 1.4314559202725494
+      },
+      "occupation": "security operator",
+      "experience": 5,
+      "familiarity": 3
+    },
+    {
+      "niceness": 1.1683800044237835,
+      "name": "Evelyn Oconnor",
+      "tool_assignments": [
+        0,
+        3,
+        7,
+        5,
+        8,
+        4,
+        9,
+        2
+      ],
+      "jitter_size": 1.0281399112328504,
+      "tool_scores": {},
+      "property_weights": {
+        "auto_task": 1.2567823246913619,
+        "playbooks": 0.9096221628349271,
+        "rank_alert": 0.6701026613214272,
+        "colab": 0.9103355507141023,
+        "ticketing": 0.9328826433241607,
+        "ingest": 1.0984734939911038
+      },
+      "occupation": "other",
+      "experience": 12,
+      "familiarity": 2
+    },
+    {
+      "niceness": 1.1450194513929202,
+      "name": "Shannon Miller",
+      "tool_assignments": [
+        6,
+        3,
+        7,
+        5,
+        8,
+        4,
+        1,
+        9
+      ],
+      "jitter_size": 0.8774333812936401,
+      "tool_scores": {},
+      "property_weights": {
+        "auto_task": 1.289192511723641,
+        "playbooks": 0.6887379544819519,
+        "rank_alert": 1.0355517929264406,
+        "colab": 1.3662396809889792,
+        "ticketing": 1.0672111663551358,
+        "ingest": 1.2587143178602067
+      },
+      "occupation": "other",
+      "experience": 19,
+      "familiarity": 1
+    },
+    {
+      "niceness": 1.2050632653642928,
+      "name": "Denise Oconnor",
+      "tool_assignments": [
+        0,
+        6,
+        3,
+        7,
+        5,
+        1,
+        9,
+        2
+      ],
+      "jitter_size": 1.4781597796840729,
+      "tool_scores": {},
+      "property_weights": {
+        "auto_task": 0.9776863330747091,
+        "playbooks": 1.4359416367797229,
+        "rank_alert": 1.5772909226206349,
+        "colab": 0.7798495521143334,
+        "ticketing": 1.2052222633859433,
+        "ingest": 0.5776318680316228
+      },
+      "occupation": "network operator",
+      "experience": 10,
+      "familiarity": 1
+    },
+    {
+      "niceness": 0.9166373680881271,
+      "name": "Mr. Louis Kim",
+      "tool_assignments": [
+        0,
+        6,
+        3,
+        7,
+        5,
+        8,
+        9,
+        2
+      ],
+      "jitter_size": 0.6949414602697472,
+      "tool_scores": {},
+      "property_weights": {
+        "auto_task": 0.8248105024643413,
+        "playbooks": 0.8307739488953914,
+        "rank_alert": 1.4325523244495466,
+        "colab": 1.3333773133285054,
+        "ticketing": 0.8946635958336504,
+        "ingest": 0.7766963946848329
+      },
+      "occupation": "other",
+      "experience": 8,
+      "familiarity": 1
+    },
+    {
+      "niceness": 0.4730480501069787,
+      "name": "Carrie Johnston",
+      "tool_assignments": [
+        6,
+        3,
+        7,
+        5,
+        4,
+        1,
+        9,
+        2
+      ],
+      "jitter_size": 1.4273169758892719,
+      "tool_scores": {},
+      "property_weights": {
+        "auto_task": 0.808709449943759,
+        "playbooks": 1.6734166342407686,
+        "rank_alert": 1.6174773795218593,
+        "colab": 1.553451029008933,
+        "ticketing": 0.8301900917937748,
+        "ingest": 0.896808366081145
+      },
+      "occupation": "security operator",
+      "experience": 16,
+      "familiarity": 1
+    },
+    {
+      "niceness": 0.5388847539621782,
+      "name": "Shawn Howard",
+      "tool_assignments": [
+        0,
+        3,
+        7,
+        5,
+        8,
+        4,
+        1,
+        2
+      ],
+      "jitter_size": 0.5666235753078176,
+      "tool_scores": {},
+      "property_weights": {
+        "auto_task": 1.1728504052547126,
+        "playbooks": 1.3312700507823647,
+        "rank_alert": 1.1255474989077512,
+        "colab": 1.0797075184721834,
+        "ticketing": 0.8717051141483121,
+        "ingest": 1.4708708384916556
+      },
+      "occupation": "other",
+      "experience": 22,
+      "familiarity": 1
+    },
+    {
+      "niceness": 0.7007864775242034,
+      "name": "Eddie Welch",
+      "tool_assignments": [
+        0,
+        6,
+        7,
+        5,
+        8,
+        4,
+        1,
+        9
+      ],
+      "jitter_size": 1.4332197807013511,
+      "tool_scores": {},
+      "property_weights": {
+        "auto_task": 1.1502795619189554,
+        "playbooks": 0.8867768551460129,
+        "rank_alert": 1.5366764029826778,
+        "colab": 0.6999016631545514,
+        "ticketing": 0.7030365794119164,
+        "ingest": 0.8659427965689304
+      },
+      "occupation": "network operator",
+      "experience": 7,
+      "familiarity": 2
+    },
+    {
+      "niceness": 1.118861164169741,
+      "name": "Shannon Love",
+      "tool_assignments": [
+        0,
+        6,
+        3,
+        8,
+        4,
+        1,
+        9,
+        2
+      ],
+      "jitter_size": 0.912033298224999,
+      "tool_scores": {},
+      "property_weights": {
+        "auto_task": 1.0950278091092347,
+        "playbooks": 0.865419891668052,
+        "rank_alert": 0.8359162677301777,
+        "colab": 0.835554414400176,
+        "ticketing": 0.5466809317995642,
+        "ingest": 1.0547697864347991
+      },
+      "occupation": "other",
+      "experience": 12,
+      "familiarity": 1
+    },
+    {
+      "niceness": 1.2429105830948373,
+      "name": "John Lewis",
+      "tool_assignments": [
+        0,
+        6,
+        3,
+        7,
+        4,
+        1,
+        9,
+        2
+      ],
+      "jitter_size": 1.4978171518201282,
+      "tool_scores": {},
+      "property_weights": {
+        "auto_task": 1.106636477031844,
+        "playbooks": 0.6299217346125892,
+        "rank_alert": 0.9918902461516895,
+        "colab": 0.8618667407780161,
+        "ticketing": 1.2803138554443383,
+        "ingest": 1.3718296850551055
+      },
+      "occupation": "security operator",
+      "experience": 10,
+      "familiarity": 3
+    },
+    {
+      "niceness": 1.3059008333290334,
+      "name": "Raymond Harris",
+      "tool_assignments": [
+        0,
+        6,
+        3,
+        5,
+        8,
+        1,
+        9,
+        2
+      ],
+      "jitter_size": 0.9596614462651563,
+      "tool_scores": {},
+      "property_weights": {
+        "auto_task": 1.23950776477265,
+        "playbooks": 0.8324496937175285,
+        "rank_alert": 1.2930847098476683,
+        "colab": 0.7054496912503339,
+        "ticketing": 1.0321197072490291,
+        "ingest": 0.7199573592155197
+      },
+      "occupation": "security operator",
+      "experience": 23,
+      "familiarity": 3
+    },
+    {
+      "niceness": 0.8783902388344489,
+      "name": "Julie Wood",
+      "tool_assignments": [
+        0,
+        3,
+        7,
+        5,
+        8,
+        4,
+        1,
+        2
+      ],
+      "jitter_size": 0.7455096091398937,
+      "tool_scores": {},
+      "property_weights": {
+        "auto_task": 0.8244864562824139,
+        "playbooks": 0.9523984454468845,
+        "rank_alert": 0.9183397041968171,
+        "colab": 0.45372387105969747,
+        "ticketing": 1.2679005626714464,
+        "ingest": 1.385302198264108
+      },
+      "occupation": "network operator",
+      "experience": 2,
+      "familiarity": 3
+    },
+    {
+      "niceness": 0.8711791476968394,
+      "name": "Isaac Cunningham",
+      "tool_assignments": [
+        0,
+        6,
+        7,
+        5,
+        8,
+        4,
+        1,
+        9
+      ],
+      "jitter_size": 1.2671230177987904,
+      "tool_scores": {},
+      "property_weights": {
+        "auto_task": 1.0718396038087155,
+        "playbooks": 0.8091760105290006,
+        "rank_alert": 1.0946478893018539,
+        "colab": 0.7113587065524598,
+        "ticketing": 1.120685355542838,
+        "ingest": 0.5207273881134561
+      },
+      "occupation": "other",
+      "experience": 5,
+      "familiarity": 2
+    },
+    {
+      "niceness": 0.44754708290268497,
+      "name": "Sheryl Taylor MD",
+      "tool_assignments": [
+        6,
+        3,
+        7,
+        5,
+        8,
+        4,
+        9,
+        2
+      ],
+      "jitter_size": 0.5955205519209368,
+      "tool_scores": {},
+      "property_weights": {
+        "auto_task": 0.7363415277226504,
+        "playbooks": 1.3085030622776945,
+        "rank_alert": 1.5654735178052221,
+        "colab": 1.1909162721589452,
+        "ticketing": 0.9738044359091107,
+        "ingest": 0.6451489198593954
+      },
+      "occupation": "security operator",
+      "experience": 14,
+      "familiarity": 2
+    },
+    {
+      "niceness": 1.1310760780708147,
+      "name": "Joseph Estrada",
+      "tool_assignments": [
+        0,
+        6,
+        3,
+        7,
+        8,
+        4,
+        9,
+        2
+      ],
+      "jitter_size": 1.3699176491080045,
+      "tool_scores": {},
+      "property_weights": {
+        "auto_task": 1.230833975126544,
+        "playbooks": 0.9471071626227031,
+        "rank_alert": 1.0660940101011973,
+        "colab": 0.7703135664817141,
+        "ticketing": 1.0937487629764344,
+        "ingest": 0.6012650118748228
+      },
+      "occupation": "other",
+      "experience": 11,
+      "familiarity": 1
+    },
+    {
+      "niceness": 0.883135937235668,
+      "name": "Kathy Franco",
+      "tool_assignments": [
+        6,
+        3,
+        5,
+        8,
+        4,
+        1,
+        9,
+        2
+      ],
+      "jitter_size": 1.4982032434053887,
+      "tool_scores": {},
+      "property_weights": {
+        "auto_task": 0.3034356888141718,
+        "playbooks": 1.0321247143276793,
+        "rank_alert": 1.5158771380969551,
+        "colab": 1.2162937974584314,
+        "ticketing": 1.3382301379735482,
+        "ingest": 0.2628078577368761
+      },
+      "occupation": "systems administrator",
+      "experience": 17,
+      "familiarity": 2
+    },
+    {
+      "niceness": 1.0003121314158259,
+      "name": "Kristin Cabrera",
+      "tool_assignments": [
+        0,
+        6,
+        3,
+        7,
+        5,
+        8,
+        1,
+        9
+      ],
+      "jitter_size": 1.3893388374209827,
+      "tool_scores": {},
+      "property_weights": {
+        "auto_task": 1.3997965731306032,
+        "playbooks": 0.11653205194552241,
+        "rank_alert": 0.7408191502986672,
+        "colab": 1.2174543292123243,
+        "ticketing": 1.4372421619020228,
+        "ingest": 0.6914634998303602
+      },
+      "occupation": "security operator",
+      "experience": 8,
+      "familiarity": 2
+    },
+    {
+      "niceness": 1.242011371734432,
+      "name": "Joseph Chavez",
+      "tool_assignments": [
+        0,
+        6,
+        3,
+        7,
+        5,
+        4,
+        1,
+        2
+      ],
+      "jitter_size": 0.9034854953979283,
+      "tool_scores": {},
+      "property_weights": {
+        "auto_task": 1.007613744575173,
+        "playbooks": 1.3701126615057735,
+        "rank_alert": 1.3560709540788702,
+        "colab": 0.9597289282132617,
+        "ticketing": 1.8087056218311228,
+        "ingest": 0.853721088561566
+      },
+      "occupation": "network operator",
+      "experience": 12,
+      "familiarity": 2
+    },
+    {
+      "niceness": 1.6347625578417504,
+      "name": "Jorge Nguyen",
+      "tool_assignments": [
+        0,
+        7,
+        5,
+        8,
+        4,
+        1,
+        9,
+        2
+      ],
+      "jitter_size": 0.5745930553276586,
+      "tool_scores": {},
+      "property_weights": {
+        "auto_task": 1.4543339092548688,
+        "playbooks": 0.8665407518926054,
+        "rank_alert": 1.153611885009773,
+        "colab": 1.640426956789312,
+        "ticketing": 0.6163152765809342,
+        "ingest": 1.214706824181775
+      },
+      "occupation": "systems administrator",
+      "experience": 15,
+      "familiarity": 3
+    }
+  ],
+  "tools": [
+    {
+      "properties": {
+        "video_qual": 2.189568644644475,
+        "auto_task": 5,
+        "playbooks": 5,
+        "rank_alert": 5,
+        "colab": 5,
+        "ticketing": 5,
+        "ingest": 5
+      },
+      "property_ranges": {
+        "video_qual": [
+          1,
+          3
+        ],
+        "auto_task": [
+          1,
+          5
+        ],
+        "playbooks": [
+          1,
+          5
+        ],
+        "rank_alert": [
+          1,
+          5
+        ],
+        "colab": [
+          1,
+          5
+        ],
+        "ticketing": [
+          1,
+          5
+        ],
+        "ingest": [
+          1,
+          5
+        ]
+      },
+      "name": "country"
+    },
+    {
+      "properties": {
+        "video_qual": 1.772820334379423,
+        "auto_task": 5,
+        "playbooks": 5,
+        "rank_alert": 5,
+        "colab": 5,
+        "ticketing": 5,
+        "ingest": 5
+      },
+      "property_ranges": {
+        "video_qual": [
+          1,
+          3
+        ],
+        "auto_task": [
+          1,
+          5
+        ],
+        "playbooks": [
+          1,
+          5
+        ],
+        "rank_alert": [
+          1,
+          5
+        ],
+        "colab": [
+          1,
+          5
+        ],
+        "ticketing": [
+          1,
+          5
+        ],
+        "ingest": [
+          1,
+          5
+        ]
+      },
+      "name": "speech"
+    },
+    {
+      "properties": {
+        "video_qual": 2.7050402438146506,
+        "auto_task": 5,
+        "playbooks": 5,
+        "rank_alert": 5,
+        "colab": 5,
+        "ticketing": 5,
+        "ingest": 5
+      },
+      "property_ranges": {
+        "video_qual": [
+          1,
+          3
+        ],
+        "auto_task": [
+          1,
+          5
+        ],
+        "playbooks": [
+          1,
+          5
+        ],
+        "rank_alert": [
+          1,
+          5
+        ],
+        "colab": [
+          1,
+          5
+        ],
+        "ticketing": [
+          1,
+          5
+        ],
+        "ingest": [
+          1,
+          5
+        ]
+      },
+      "name": "ok"
+    },
+    {
+      "properties": {
+        "video_qual": 2.827799709029329,
+        "auto_task": 1,
+        "playbooks": 1,
+        "rank_alert": 1,
+        "colab": 1,
+        "ticketing": 1,
+        "ingest": 1
+      },
+      "property_ranges": {
+        "video_qual": [
+          1,
+          3
+        ],
+        "auto_task": [
+          1,
+          5
+        ],
+        "playbooks": [
+          1,
+          5
+        ],
+        "rank_alert": [
+          1,
+          5
+        ],
+        "colab": [
+          1,
+          5
+        ],
+        "ticketing": [
+          1,
+          5
+        ],
+        "ingest": [
+          1,
+          5
+        ]
+      },
+      "name": "threat"
+    },
+    {
+      "properties": {
+        "video_qual": 1.0002716652871906,
+        "auto_task": 1,
+        "playbooks": 1,
+        "rank_alert": 1,
+        "colab": 1,
+        "ticketing": 1,
+        "ingest": 1
+      },
+      "property_ranges": {
+        "video_qual": [
+          1,
+          3
+        ],
+        "auto_task": [
+          1,
+          5
+        ],
+        "playbooks": [
+          1,
+          5
+        ],
+        "rank_alert": [
+          1,
+          5
+        ],
+        "colab": [
+          1,
+          5
+        ],
+        "ticketing": [
+          1,
+          5
+        ],
+        "ingest": [
+          1,
+          5
+        ]
+      },
+      "name": "should"
+    },
+    {
+      "properties": {
+        "video_qual": 2.098854942948911,
+        "auto_task": 1,
+        "playbooks": 1,
+        "rank_alert": 1,
+        "colab": 1,
+        "ticketing": 1,
+        "ingest": 1
+      },
+      "property_ranges": {
+        "video_qual": [
+          1,
+          3
+        ],
+        "auto_task": [
+          1,
+          5
+        ],
+        "playbooks": [
+          1,
+          5
+        ],
+        "rank_alert": [
+          1,
+          5
+        ],
+        "colab": [
+          1,
+          5
+        ],
+        "ticketing": [
+          1,
+          5
+        ],
+        "ingest": [
+          1,
+          5
+        ]
+      },
+      "name": "something"
+    },
+    {
+      "properties": {
+        "video_qual": 2.2916959445182643,
+        "auto_task": 1,
+        "playbooks": 1,
+        "rank_alert": 1,
+        "colab": 1,
+        "ticketing": 1,
+        "ingest": 1
+      },
+      "property_ranges": {
+        "video_qual": [
+          1,
+          3
+        ],
+        "auto_task": [
+          1,
+          5
+        ],
+        "playbooks": [
+          1,
+          5
+        ],
+        "rank_alert": [
+          1,
+          5
+        ],
+        "colab": [
+          1,
+          5
+        ],
+        "ticketing": [
+          1,
+          5
+        ],
+        "ingest": [
+          1,
+          5
+        ]
+      },
+      "name": "safe"
+    },
+    {
+      "properties": {
+        "video_qual": 1.77937410164377,
+        "auto_task": 1,
+        "playbooks": 1,
+        "rank_alert": 1,
+        "colab": 1,
+        "ticketing": 1,
+        "ingest": 1
+      },
+      "property_ranges": {
+        "video_qual": [
+          1,
+          3
+        ],
+        "auto_task": [
+          1,
+          5
+        ],
+        "playbooks": [
+          1,
+          5
+        ],
+        "rank_alert": [
+          1,
+          5
+        ],
+        "colab": [
+          1,
+          5
+        ],
+        "ticketing": [
+          1,
+          5
+        ],
+        "ingest": [
+          1,
+          5
+        ]
+      },
+      "name": "that"
+    },
+    {
+      "properties": {
+        "video_qual": 1.6906107599412894,
+        "auto_task": 1,
+        "playbooks": 1,
+        "rank_alert": 1,
+        "colab": 1,
+        "ticketing": 1,
+        "ingest": 1
+      },
+      "property_ranges": {
+        "video_qual": [
+          1,
+          3
+        ],
+        "auto_task": [
+          1,
+          5
+        ],
+        "playbooks": [
+          1,
+          5
+        ],
+        "rank_alert": [
+          1,
+          5
+        ],
+        "colab": [
+          1,
+          5
+        ],
+        "ticketing": [
+          1,
+          5
+        ],
+        "ingest": [
+          1,
+          5
+        ]
+      },
+      "name": "can"
+    },
+    {
+      "properties": {
+        "video_qual": 2.0638010163966083,
+        "auto_task": 1,
+        "playbooks": 1,
+        "rank_alert": 1,
+        "colab": 1,
+        "ticketing": 1,
+        "ingest": 1
+      },
+      "property_ranges": {
+        "video_qual": [
+          1,
+          3
+        ],
+        "auto_task": [
+          1,
+          5
+        ],
+        "playbooks": [
+          1,
+          5
+        ],
+        "rank_alert": [
+          1,
+          5
+        ],
+        "colab": [
+          1,
+          5
+        ],
+        "ticketing": [
+          1,
+          5
+        ],
+        "ingest": [
+          1,
+          5
+        ]
+      },
+      "name": "early"
+    }
+  ]
+}
